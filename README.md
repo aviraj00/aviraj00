@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 
-<img align="right" alt="coding" width="400"  src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478lnv3xz1txyey24so4edz7xicwuczs5pklnwekqs&ep=v1_gifs_search&rid=giphy.gif&ct=g>
+<img align="right" alt="coding" width="400"  src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviraj00&label=Profile%20views&color=0e75b6&style=flat" alt="aviraj00" /> </p>
 
 - 🌱 I’m currently learning **reactjs,devops tools**
