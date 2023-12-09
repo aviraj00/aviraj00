@@ -1,4 +1,4 @@
-![logo](https://github.com/aviraj00/aviraj00/blob/main/GITHUB%20BANNER.png)
+![logo](https://github.com/aviraj00/aviraj00/blob/main/GITHUB%20BANNER%20.png)
 <h1 align="center">Hi 👋, I'm Aviraj</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
