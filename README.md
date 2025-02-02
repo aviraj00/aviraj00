@@ -1,4 +1,3 @@
-#![logo](https://github.com/aviraj00/aviraj00/blob/3d715d8294b5eb79d3bb6368c4f03d57524008d0/Blue%20Purple%20Futuristic%20Modern%203D%20Tech%20Company%20Business%20Presentation.png)
 <h1 align="center">Hi 👋, I'm Aviraj</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
