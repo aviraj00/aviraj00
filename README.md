@@ -3,7 +3,7 @@
 
 
  # 💫 About Me:
-🌱 I’m currently learning springboot,devops tools<br><br>👨‍💻 All of my projects are available at https://avirajlavate.netlify.app/<br><br>📫 How to reach me avi00aviraj@gmail.com<br><br>⚡ Fun fact Its Not Funny
+🌱 I’m currently learning springboot,devops tools<br><br>👨‍💻 All of my projects are available at https://avirajlavate.netlify.app/<br><br>📫 How to reach me avi00aviraj@gmail.com<br><br>⚡ ☕ Java was almost named after a tree! 🌳
 
 
 ## 🌐 Socials:
